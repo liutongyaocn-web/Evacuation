@@ -91,6 +91,11 @@ crashlytics-build.properties
 *.blend1.meta
 
 # ==============================
+# 处理本地 AI 工具claude
+# ==============================
+.claude/
+
+# ==============================
 # Test Runner
 # ==============================
 InitTestScene*.unity*
